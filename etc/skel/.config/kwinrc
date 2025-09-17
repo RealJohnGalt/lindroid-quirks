@@ -1,0 +1,5 @@
+[Input]
+TabletMode=on
+
+[Wayland]
+InputMethod[$e]=/usr/share/applications/com.github.maliit.keyboard.desktop
